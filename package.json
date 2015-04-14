@@ -1,0 +1,33 @@
+{
+  "name": "react-flux-stores",
+  "version": "1.0.0",
+  "description": "Building simple store with React and Flux",
+  "main": "app.js",
+  "scripts": {
+    "test": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nguyenthanhtung88/react-flux-stores.git"
+  },
+  "keywords": [
+    "react",
+    "flux",
+    "store"
+  ],
+  "author": "Tungshooter",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nguyenthanhtung88/react-flux-stores/issues"
+  },
+  "homepage": "https://github.com/nguyenthanhtung88/react-flux-stores",
+  "devDependencies": {
+    "flux": "^2.0.1",
+    "gulp": "^3.8.11",
+    "gulp-browserify": "^0.5.1",
+    "gulp-concat": "^2.5.2",
+    "react": "^0.13.1",
+    "reactify": "^1.1.0",
+    "underscore": "^1.8.3"
+  }
+}
